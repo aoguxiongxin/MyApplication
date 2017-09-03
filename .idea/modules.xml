@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animator(属性动画)/animator(属性动画).iml" filepath="$PROJECT_DIR$/animator(属性动画)/animator(属性动画).iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customtitle(自定义标题栏)/customtitle(自定义标题栏).iml" filepath="$PROJECT_DIR$/customtitle(自定义标题栏)/customtitle(自定义标题栏).iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview(自定义View)/customview(自定义View).iml" filepath="$PROJECT_DIR$/customview(自定义View)/customview(自定义View).iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview02自定义View/customview02自定义View.iml" filepath="$PROJECT_DIR$/customview02自定义View/customview02自定义View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview02/recyclerview02.iml" filepath="$PROJECT_DIR$/recyclerview02/recyclerview02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview03/recyclerview03.iml" filepath="$PROJECT_DIR$/recyclerview03/recyclerview03.iml" />
+    </modules>
+  </component>
+</project>

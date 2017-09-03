@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <com.ff.customtitle.MyTitleView
+        android:id="@+id/mytitleview"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        app:Layout_bg_Color="#000000"
+        app:Title_Image="@mipmap/goback"
+        app:Title_Text="ScendActivity"
+        app:Title_TextColor="#ffffff"
+        app:Title_TextSize="18sp"
+        >
+
+    </com.ff.customtitle.MyTitleView>
+
+</LinearLayout>

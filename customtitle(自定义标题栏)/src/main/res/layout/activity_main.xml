@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ff.customtitle.MainActivity"
+    >
+
+    <com.ff.customtitle.MyTitleView
+        android:id="@+id/mytitleview"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        app:Layout_bg_Color="#ffff00"
+        app:Title_Image="@mipmap/goback"
+        app:Title_Text="自定义标题"
+        app:Title_TextColor="#ff0000"
+        app:Title_TextSize="25sp"
+        ></com.ff.customtitle.MyTitleView>
+
+
+</LinearLayout>

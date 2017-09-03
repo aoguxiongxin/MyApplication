@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ff.customview.MainActivity">
+
+    <com.ff.customview.MyTextView
+        android:id="@+id/mytextview"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:Text="这是使用attrs定义的属性"
+        app:TextColor="#f00"
+        app:TextSize="30sp"/>
+
+    <com.ff.customview.MyCustomView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    </com.ff.customview.MyCustomView>
+
+</LinearLayout>
